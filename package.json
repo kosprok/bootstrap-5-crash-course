@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap-v5",
+  "version": "1.0.0",
+  "description": "Simple Bootstrap one page website",
+  "main": "index.js",
+  "scripts": {
+   "compile:sass": "sass --watch scss/style.scss css/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.45.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
